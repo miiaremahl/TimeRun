@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Heat
+  m_Shader: {fileID: -6465566751694194690, guid: 86ca049c627472d4386c45c2f97c5799,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3400
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_4F4D1052:
+        m_Texture: {fileID: 2800000, guid: bcea6a8400d125f449b6699708bf722f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_11A54DA4: 5
+    - Vector1_197D9B4E: 0.62
+    - Vector1_2C7E5C70: 52.27
+    - Vector1_62475E3B: 0.396
+    m_Colors:
+    - Color_BA6576A1: {r: 0.38679248, g: 0.21711464, b: 0.21711464, a: 0}

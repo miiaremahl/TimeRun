@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GroundSh
+  m_Shader: {fileID: -6465566751694194690, guid: ed74f136d5a8aa542b742f55bf58af17,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_66FDF4B6:
+        m_Texture: {fileID: 2800000, guid: 14549fd17604e9b4eaa5335dccd75d6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3E568BA6: 0.1
+    - _GameGoing: 0
+    m_Colors:
+    - Color_4BB120B4: {r: 0.8773585, g: 0.5680807, b: 0.31866315, a: 1}
+    - Vector2_7EEAB428: {r: 0, g: -0.2, b: 0, a: 0}
+    - Vector2_9B52B80: {r: 1, g: 1, b: 1, a: 0}
+    - Vector3_EA4315DE: {r: 1, g: 1, b: 1, a: 0}

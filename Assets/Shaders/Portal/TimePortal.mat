@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TimePortal
+  m_Shader: {fileID: -6465566751694194690, guid: 593fa302b9cf1214f91c384dd23d340b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_A39163DA:
+        m_Texture: {fileID: 2800000, guid: bcea6a8400d125f449b6699708bf722f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B2A74AC9: 3.01
+    - Vector1_B88F4FD3: 0.75
+    - Vector1_BFF4D115: 26.3
+    - Vector1_D1550EB: 0.86
+    - Vector1_D95BFD3: 0.32
+    - _UnscaledTime: 0.36
+    m_Colors:
+    - Color_EA069B9D: {r: 0.8540741, g: 0.16083212, b: 0, a: 1}
+    - Color_FC056C72: {r: 0.8679245, g: 0.11705501, b: 0, a: 0}

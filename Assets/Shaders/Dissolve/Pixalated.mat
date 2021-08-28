@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pixalated
+  m_Shader: {fileID: -6465566751694194690, guid: 10a09e53610f51848ad10e1dae6f7b85,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_47518C54: 10
+    - Vector1_4D66996C: 19.8
+    - Vector1_541DD9F4: 10
+    m_Colors:
+    - Color_503B434: {r: 0.5406831, g: 1, b: 0.0141509175, a: 0}
+    - Color_5B66B326: {r: 1, g: 0.64185345, b: 0.023584902, a: 1}
